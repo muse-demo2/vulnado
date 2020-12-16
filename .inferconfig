@@ -29,8 +29,7 @@
   ],
    "quandary-sanitizers": [
     {
-      "procedure": "com.scalesec.vulnado.User.encodeForSQL",
-      "kind": "All"
+      "procedure": "com.scalesec.vulnado.User.encodeForSQL"
     }
   ]
 }
